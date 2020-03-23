@@ -1,4 +1,4 @@
 ﻿  15-puzzle.cpp
-C:\Users\Sonyc\source\repos\Mystic Square\Mystic Square\15-puzzle.cpp(25,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\Sonyc\source\repos\Mystic Square\Mystic Square\15-puzzle.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sonyc\source\repos\Mystic Square\Mystic Square\15-puzzle.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Sonyc\source\repos\Mystic Square\Mystic Square\15-puzzle.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Mystic Square.vcxproj -> C:\Users\Sonyc\source\repos\Mystic Square\Debug\Mystic Square.exe
